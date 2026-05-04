@@ -2,6 +2,10 @@
 
 **Created by Saleem Yousaf – Cloud & Cyber Security Architect**  
 Website: https://www.saleemyousaf.co.uk
+🌐 Website:
+💼 LinkedIn:
+✍️ Medium:
+💻 GitHub:
 
 ## Overview
 
